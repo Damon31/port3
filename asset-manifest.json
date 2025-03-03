@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/port3/static/css/main.90e65d81.css",
+    "main.js": "/port3/static/js/main.510e2103.js",
+    "static/media/VishvaPatelCV.pdf": "/port3/static/media/VishvaPatelCV.776759e4d0bb06de212b.pdf",
+    "static/media/hero-bg-1.jpg": "/port3/static/media/hero-bg-1.5a3233c0bcb06a691fe2.jpg",
+    "static/media/profile_me.jpeg": "/port3/static/media/profile_me.54e17b36230c917ab75d.jpeg",
+    "index.html": "/port3/index.html",
+    "main.90e65d81.css.map": "/port3/static/css/main.90e65d81.css.map",
+    "main.510e2103.js.map": "/port3/static/js/main.510e2103.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90e65d81.css",
+    "static/js/main.510e2103.js"
+  ]
+}
