@@ -1,7 +1,7 @@
 import React, { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import { HashRouter } from "react-router-dom";
-import './App.css';
+import App from "./screen/App";
 
 // 👇️ make sure to use the correct root element ID
 // from your public/index.html file
